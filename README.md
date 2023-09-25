@@ -1,1 +1,1 @@
-# virtualboardandroid
+# VirtualBoardCollabApp
